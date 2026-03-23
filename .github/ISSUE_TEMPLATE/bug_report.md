@@ -1,40 +1,45 @@
 ---
-name: Bug Report
-about: Report a reproducible problem
+name: Bug 报告 / Bug Report
+about: 报告可复现问题 / Report a reproducible problem
 title: "[Bug] "
 labels: ["bug"]
 assignees: []
 ---
 
-## Summary
+## 问题概述 / Summary
 
+请简要描述问题。  
 Briefly describe the issue.
 
-## Environment
+## 环境信息 / Environment
 
-- Product/Extension:
-- Version:
-- VS Code/Cursor Version:
-- OS:
+- 产品/扩展 Product/Extension:
+- 版本 Version:
+- VS Code/Cursor 版本 VS Code/Cursor Version:
+- 操作系统 OS:
 
-## Steps To Reproduce
+## 复现步骤 / Steps To Reproduce
 
 1.
 2.
 3.
 
-## Expected Behavior
+## 预期行为 / Expected Behavior
 
+你预期会发生什么？  
 What did you expect to happen?
 
-## Actual Behavior
+## 实际行为 / Actual Behavior
 
+实际发生了什么？  
 What actually happened?
 
-## Logs / Screenshots
+## 日志 / 截图 / Logs / Screenshots
 
+请粘贴日志或附上截图。  
 Please paste logs or add screenshots if available.
 
-## Additional Context
+## 补充信息 / Additional Context
 
+任何有助于定位问题的信息。  
 Anything else that may help diagnosis.
